@@ -1,0 +1,43 @@
+1번) main메소드내에서 0부터 4까지 출력하시오. (for문 사용)
+  파일명: Recursive1.java
+
+2번) main메소드내에서 0부터 4까지 출력하시오. (while문 사용)
+        main: int n=0;
+    
+  파일명: Recursive2.java
+
+3번) main메소드내에서 recursive()메소드를 호출하여 0부터 4까지 출력하시오. 
+        main: int n=0;
+     ==> recursive(int n) 사용
+    
+  파일명: Recursive3.java
+
+4번) main메소드내에 선언 초기화된 배열의 값을 recursive()메소드에서 출력하시오.
+     ==> main: int[]arr={1,3,5,7,9};
+    
+  파일명: Recursive4.java
+
+5번) main메소드내에 선언 초기화된 배열의 값에 대해 recursive()메소드에서 배열 총합계를 출력하시오.
+     ==> int[]arr={1,3,5,7,9};
+     ==> 25출력
+  파일명: Recursive5.java
+
+6번) main메소드내에 선언 초기화된 배열의 값에 대해 recursive()메소드에서 배열의 데이터를 다 곱한 값을 출력하시오.
+     ==> int[]arr={1,3,5,7,9};
+     ==> 945출력
+  파일명: Recursive6.java
+
+7번) main메소드내에 선언 초기화된 배열의 값에 대해 permutation()메소드에서 순열을 구하시오.
+     ==> int[]arr={1, 3, 5};
+     
+  파일명: Recursive7.java
+
+8번) main메소드내에 선언 초기화된 배열의 값에 대해 combination()메소드에서 조합을 구하시오.
+     ==> int[]arr={1, 3, 5};
+     
+  파일명: Recursive8.java
+
+9번) main메소드내에 선언 초기화된 배열의 값에 대해 powerset()메소드에서 부분집합을 구하시오.
+     ==> int[]arr={1, 3, 5};
+     
+  파일명: Recursive9.java
